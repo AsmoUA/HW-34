@@ -1,5 +1,5 @@
-import employees from "./employees..js";
-// inode -vmport { totalSalary, departmentsQuantity } from "./method.js";
+import employees from "./employees.js";
+// inode import { totalSalary, departmentsQuantity } from "./method.js";
 import * as employeesMethods from "./method.js";
 
 // console.log(totalSalary(employees));
