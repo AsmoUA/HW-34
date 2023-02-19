@@ -1,0 +1,22 @@
+{
+  "name": "no",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsmoUA/HW-34.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsmoUA/HW-34/issues"
+  },
+  "homepage": "https://github.com/AsmoUA/HW-34#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
